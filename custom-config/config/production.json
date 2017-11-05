@@ -1,0 +1,7 @@
+{
+  "API_TEST": {
+    "name": "App production",
+    "URL": "localhost:3000"
+  },
+  "PORT": 3000
+}

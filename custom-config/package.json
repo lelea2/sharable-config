@@ -1,5 +1,5 @@
 {
-  "name": "custom-config",
+  "name": "custom-config-test",
   "version": "1.0.0",
   "description": "Custom config, sharable config for multiple node app",
   "main": "index.js",
