@@ -1,6 +1,7 @@
 'use strict';
 
 const Hapi = require('hapi');
+const config = require('custom-config-test');
 
 // Create a server with a host and port
 const server = new Hapi.Server();
